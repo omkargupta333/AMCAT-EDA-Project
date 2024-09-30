@@ -1,6 +1,6 @@
 # AMCAT-EDA-Project
 
-#Step 6: Conclusion
+# Step 6: Conclusion
 In this analysis, we explored a dataset comprising employment outcomes of engineering graduates, covering salary, job titles, job cities, educational background, and personality traits. The following key findings were observed:
 
 Salary Distribution: The average salary across the dataset is ₹307,700, with salaries ranging from ₹35,000 to ₹4,000,000. A majority of salaries are clustered in the ₹180,000 - ₹370,000 range.
